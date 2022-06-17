@@ -91,7 +91,7 @@ button {
 
 i {
        position: absolute;
-       top: 25px;
+       top:13px;
        right: 20px;
        visibility: hidden;
 }
@@ -100,7 +100,8 @@ i {
        visibility: hidden;
        position: relative;
        text-align: right !important;
-       right: -180px;
+       right: -130px;
+       top: -10px;
 }
 
 .form-control.error small, .form-control.error i {
